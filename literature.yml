@@ -1,0 +1,7 @@
+literatures: 
+  - path: resources\literature\federated learning\algorithm, fl, nips, 2019, mit]fl-1.pdf
+    name: Data Leakage from Gradients
+    date: 2019
+    type: federated learning
+    author: Ligeng Zhu, Zhijian Liu, Song Han
+    journal: NeuralIPS
