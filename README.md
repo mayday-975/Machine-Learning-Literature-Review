@@ -9,6 +9,7 @@ This is a literature review project focus on machine learning area, especially o
 ```
     conda create -n Machine-Learning-Literature-Review Python=3.7.5 -y
     conda activate Machine-Learning-Literature-Review
+    conda install jupyter -y
 ```
 
 ## Cautions

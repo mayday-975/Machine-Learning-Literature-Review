@@ -5,3 +5,9 @@ literatures:
     type: federated learning
     author: Ligeng Zhu, Zhijian Liu, Song Han
     journal: NeuralIPS
+  - path: resources\literature\marketing\[algorithm, marking, goolge research, 2014, google]market-1.pdf
+    name: Estimating reach curves from one data point
+    date: 2014
+    type: marketing, reach curve estimation, advertisement
+    author: Georg M. Goerg
+    journal: none(published on google research)
