@@ -11,3 +11,9 @@ literatures:
     type: marketing, reach curve estimation, advertisement
     author: Georg M. Goerg
     journal: none(published on google research)
+  - path: resources/literature/federated learning/[algorithm, fl, 1979, mit]fl-3.pdf
+    name: how to share a secret
+    date: 1979
+    type: cryptography, key management, interpolation
+    author: Adi Shamir
+    journal: none
