@@ -16,3 +16,4 @@ This is a literature review project focus on machine learning area, especially o
 
 1. Don't upload .gitingore file.
 2. Don't upload .idea directory.
+3. Don't upload .DS_STORE file.
