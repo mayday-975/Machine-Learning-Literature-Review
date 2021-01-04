@@ -11,12 +11,12 @@ literatures:
     type: marketing, reach curve estimation, advertisement
     author: Georg M. Goerg
     journal: none(published on google research)
-  - path: resources/literature/reinforcement_learning/[algorithm, reinforcement_learning, TIMI, 2020, Tencent]rl-1.pdf
-    name: Towards Playing Full MOBA Games with Deep Reinforcement Learning
-    date: 2020
-    type: RL, Actor-critic, Knowledge Distilation, Monte Calo Search Tree
+  - path: resources/literature/federated learning/[algorithm, fl, 1979, mit]fl-3.pdf
+    name: how to share a secret
+    date: 1979
+    type: cryptography, key management, interpolation
     author: Adi Shamir
-    journal: NIPS 
+    journal: none
   - path: resources/literature/reinforcement_learning/[algorithm, reinforcement_learning, TIMI, 2020, Tencent]rl-1.pdf
     name: Towards Playing Full MOBA Games with Deep Reinforcement Learning
     date: 2020
