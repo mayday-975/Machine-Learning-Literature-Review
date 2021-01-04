@@ -17,4 +17,10 @@ literatures:
     type: RL, Actor-critic, Knowledge Distilation, Monte Calo Search Tree
     author: Adi Shamir
     journal: NIPS 
+  - path: resources/literature/reinforcement_learning/[algorithm, reinforcement_learning, TIMI, 2020, Tencent]rl-1.pdf
+    name: Towards Playing Full MOBA Games with Deep Reinforcement Learning
+    date: 2020
+    type: RL, Actor-critic, Knowledge Distilation, Monte Calo Search Tree
+    author: Adi Shamir
+    journal: NIPS 
 
